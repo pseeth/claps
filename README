@@ -1,0 +1,6 @@
+Authors: Prem Seetharaman and Stephen Tarzia
+Dependencies: MATLAB
+Use: In some directory where there exists a wave file with a sequence of claps with sufficient spacing between claps, run analyze(file), where file is something like "claps.wav". This will create a subdirectory with the same name as the file, and place all the plots generated, the program output, and the variables.mat file for later use and analysis.
+
+
+
